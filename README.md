@@ -6,3 +6,6 @@ Notification sample
 <li>Customized alert sound
 <li>Server sample
 </ul>
+
+Note about git:
+git config --add [--local] push.followtags true
