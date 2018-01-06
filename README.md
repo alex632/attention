@@ -8,4 +8,4 @@ Notification sample
 </ul>
 
 Note about git:
-git config --add [--local] push.followtags true
+git config --add [--local] push.followTags true
